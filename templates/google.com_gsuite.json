@@ -1,5 +1,5 @@
 {
-  "proxyDomain": "loopback.modlishka.io",
+  "proxyDomain": "custom.great-site.net",
   "listeningAddress": "0.0.0.0",
   "proxyAddress": "",
   "target": "instagram.com",
